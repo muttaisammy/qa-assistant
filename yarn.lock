@@ -828,9 +828,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.15.3
-  resolution: "@types/node@npm:18.15.3"
-  checksum: 31b1d92475a82c30de29aa6c0771b18a276552d191283b4423ba2d61b3f01159bf0d02576c0b7cc834b043997893800db6bb47f246083ed85aa45e79c80875d7
+  version: 18.15.5
+  resolution: "@types/node@npm:18.15.5"
+  checksum: 5fbf3453bd5ce1402bb2964e55d928fc8a8a7de5451b1b0fe66587fecb8a3eb86854ca9cefa5076a5971e2cff00e1773ceeb5d872a54f6c6ddfbbc1064b4e91a
   languageName: node
   linkType: hard
 
@@ -901,11 +901,11 @@ __metadata:
   linkType: hard
 
 "@types/yargs@npm:^17.0.8":
-  version: 17.0.22
-  resolution: "@types/yargs@npm:17.0.22"
+  version: 17.0.23
+  resolution: "@types/yargs@npm:17.0.23"
   dependencies:
     "@types/yargs-parser": "*"
-  checksum: 0773523fda71bafdc52f13f5970039e535a353665a60ba9261149a5c9c2b908242e6e77fbb7a8c06931ec78ce889d64d09673c68ba23eb5f5742d5385d0d1982
+  checksum: c5f787d7a9a36ea94ba5d3f340fc5d93d2860eff8fa9731cd614ed23212e4fca75637e2386e37e376a720e4bf088ceed6f39050f1c3638fc1b75bce5c70b1ad4
   languageName: node
   linkType: hard
 
@@ -1358,9 +1358,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001449, caniuse-lite@npm:^1.0.30001464":
-  version: 1.0.30001467
-  resolution: "caniuse-lite@npm:1.0.30001467"
-  checksum: c7df36ddb8050fb366a4bedd278f4b639c1dde94b6ba62bacf960f26d488395632a0630b7932ebc52d3d04b57940d12dcb4a7d3bb744ff64c249b61fb3e0c238
+  version: 1.0.30001469
+  resolution: "caniuse-lite@npm:1.0.30001469"
+  checksum: 8e496509d7e9ff189c72205675b5db0c5f1b6a09917027441e835efae0848a468a8c4e7d2b409ffc202438fcd23ae53e017f976a03c22c04d12d3c0e1e33e5de
   languageName: node
   linkType: hard
 
@@ -1841,9 +1841,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.332
-  resolution: "electron-to-chromium@npm:1.4.332"
-  checksum: d65870e47b41dce95ca246ddd27179539de1af34a2f79cdb892b70c8bd6c2ed751aeb937bffd1fbd22e1d63b5c6bf4ce67430f208e6970a51c81e98e0beea1f4
+  version: 1.4.335
+  resolution: "electron-to-chromium@npm:1.4.335"
+  checksum: a3c9ee2412427ed0853f065f1dde64db1b567abf53d5e50e8cfba1544af4bda970f59a4f4df3dad81078c948b3277dffb42042e6a859288246d68b58db81a555
   languageName: node
   linkType: hard
 
@@ -3305,8 +3305,8 @@ __metadata:
   linkType: hard
 
 "msw@npm:^1.0.1":
-  version: 1.1.0
-  resolution: "msw@npm:1.1.0"
+  version: 1.2.0
+  resolution: "msw@npm:1.2.0"
   dependencies:
     "@mswjs/cookies": ^0.2.2
     "@mswjs/interceptors": ^0.17.5
@@ -3328,13 +3328,13 @@ __metadata:
     type-fest: ^2.19.0
     yargs: ^17.3.1
   peerDependencies:
-    typescript: ">= 4.4.x <= 4.9.x"
+    typescript: ">= 4.4.x <= 5.0.x"
   peerDependenciesMeta:
     typescript:
       optional: true
   bin:
     msw: cli/index.js
-  checksum: e555547defbc3f07532bdadcbf9f4e3a32b92156d3869e85c9038ecaac220cfc93901727da097b7f9d3ecf9cbbc5a9178c0ecdd3999a9201db4c85c99b92c361
+  checksum: 2cea7fe0f2ebb59b11534896cbaa91dca65f4fb2272402549079cc4190847fc42f5367f331c552d576d59a3521f498da0384d53cf4960beaebd6165bbc44593b
   languageName: node
   linkType: hard
 
@@ -3961,14 +3961,14 @@ __metadata:
   linkType: hard
 
 "react-toastify@npm:^9.1.1":
-  version: 9.1.1
-  resolution: "react-toastify@npm:9.1.1"
+  version: 9.1.2
+  resolution: "react-toastify@npm:9.1.2"
   dependencies:
     clsx: ^1.1.1
   peerDependencies:
     react: ">=16"
     react-dom: ">=16"
-  checksum: 2039255539961a9b4d77b2656f120b20abe46cb0c699a7f3c0af23b4ef669d9c4d24dae6b8f4954b5efd83edf6d6e23614a29e94e9ee0d2647741fba9ba2db85
+  checksum: 0b21851bbb03592aa6e318ca62622016a6aa37cc52484c4a2fee39ce38c9933993e570c8ad9375f0a7061d3401fd175796b74f851b7d5a711b4802e0a3f9f34a
   languageName: node
   linkType: hard
 
@@ -4114,8 +4114,8 @@ __metadata:
   linkType: hard
 
 "rollup@npm:^3.18.0":
-  version: 3.19.1
-  resolution: "rollup@npm:3.19.1"
+  version: 3.20.0
+  resolution: "rollup@npm:3.20.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -4123,7 +4123,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: f78198c6de224b26650c70b16db156762d1fcceeb375d34fb2c76fc5b23a78f712c3c881d3248e6f277a511589e20d50c247bcf5c7920f1ddc0a43cadf9f0140
+  checksum: ebf75f48eb81234f8233b4ed145b00841cefba26802d4f069f161247ffba085ca5bb165cc3cd662d9c36cfc135a67660dfff9088d3da2d2c6a70addc15f3233a
   languageName: node
   linkType: hard
 
@@ -4219,9 +4219,9 @@ __metadata:
   linkType: hard
 
 "set-cookie-parser@npm:^2.4.6":
-  version: 2.5.1
-  resolution: "set-cookie-parser@npm:2.5.1"
-  checksum: b99c37f976e68ae6eb7c758bf2bbce1e60bb54e3eccedaa25f2da45b77b9cab58d90674cf9edd7aead6fbeac6308f2eb48713320a47ca120d0e838d0194513b6
+  version: 2.6.0
+  resolution: "set-cookie-parser@npm:2.6.0"
+  checksum: bf11ebc594c53d84588f1b4c04f1b8ce14e0498b1c011b3d76b5c6d5aac481bbc3f7c5260ec4ce99bdc1d9aed19f9fc315e73166a36ca74d0f12349a73f6bdc9
   languageName: node
   linkType: hard
 
@@ -4768,8 +4768,8 @@ __metadata:
   linkType: hard
 
 "vite@npm:^3.0.0 || ^4.0.0, vite@npm:^4.1.0":
-  version: 4.2.0
-  resolution: "vite@npm:4.2.0"
+  version: 4.2.1
+  resolution: "vite@npm:4.2.1"
   dependencies:
     esbuild: ^0.17.5
     fsevents: ~2.3.2
@@ -4801,7 +4801,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 1088cdc0c89ab835aab07a0a114397b749e8dfb20f4b94241ba179d9c371b72d31e13782b22893860c3d65da596e43b24fce5e023f79cfde427f42549f2e1844
+  checksum: 70eb162ffc299017a3c310e3adc95e9661def6b17aafd1f8e5e02e516766060435590dbe3df1e4e95acc3583c728a76e91f07c546221d1e701f1b2b021293f45
   languageName: node
   linkType: hard
 
